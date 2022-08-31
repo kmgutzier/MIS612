@@ -1,4 +1,4 @@
-# MIS612 Project
+# MIS612 Project Submitted by: Kenny Mar N. Gutierrez
 ## Problem
 a clothes retailer that offers both in-person style consultations and online clothing sales. Customers visit the store, meet with a personal stylist during sessions or meetings, and then leave the store to get the garments they want online or through a mobile app.
 
